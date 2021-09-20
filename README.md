@@ -1,2 +1,2 @@
-# CarRental
-Car rental management website based on php as a backend for univ web project
+# Quick Rent
+Quick Rent website based on php as a backend for unique web project
